@@ -1,1 +1,2 @@
 # refresherProject
+I used this mini-project to re-familiarize myself with HTML. I took quite some time off focusing on my college studies and non-web dev related stuff such as data structures and algorithms.
